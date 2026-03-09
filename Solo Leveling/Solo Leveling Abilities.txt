@@ -1,0 +1,263 @@
+Cost: 
+Creature Name: 
+Creature Type: 
+Power/Toughness: 
+Abilities: 
+----------------------------------------------------
+Cost: 			{3}{B}
+Creature Name:  {fontsize-5}Sung Jin-Woo, Shadow Monarch
+Creature Type:  {fontsize-24}Legendary Creature - Human Shadow Assassin
+Power/Toughness: 4/5
+Abilities: 
+{i}Eminence{/i} — Whenever you cast another Shadow spell, if Sung Jin Woo, Shadow Monarch is in the command zone or on the battlefield, create a 1/1 black shadow warrior creature token.
+First Strike, Deathtouch
+{i}Ruler’s Domain{/i} - Shadows you control get +/3/+3.
+{i}Arise!{/i} - {W}{U}{B}{R}{G}: Amass shadows X, where X is the number of creatures in each graveyard. {i}(Put X+1/+1 counters on an Army you control. It’s also a Shadow. If you don’t control an Army, create a 0/0 black Shadow Army creature token first.){/i}{flavor}“If you gaze long into an abyss, the abyss also gazes into {lns}you... Now you are the darkness itself.”
+------------------------------------------------
+Cost: 			{G}
+Creature Name:  Sung Jin-Woo, E-rank Hunter
+Creature Type:  Creature - Human Warrior Scout
+Power/Toughness: 1/1
+Abilities: 
+When Sung Jin-Woo, E-rank Hunter dies, each player may search their library for up to two basic land cards and put them onto the battlefield. Then each player who searched their library this way shuffles it.	
+--------------------------------------------
+Cost: 			{4}{B}{B}
+Creature Name:  Bellion, Grand-Marshal
+Creature Type:  {fontsize-8}Legendary Creature - Shadow Soldier
+Power/Toughness: 7/7
+Abilities: 		 
+Flying, Double Strike
+If one or more +1/+1 counters would be put on a Shadow creature you control, put that many plus one +1/+1 counters are put on it instead.
+Whenever Bellion attacks it gets +1/+1 for each other attacking shadow creature until the end of turn.{flavor}“Grand-Marshal Bellion, we respectfully greet our liege.”
+---------------------------------------
+Cost: 			{2}{U}{UB}{B}
+Creature Name: {fontsize-4}Beru, Shadow Ant Marshal
+Creature Type: {fontsize-6}Legendary Creature - Shadow Insect
+Power/Toughness: 5/5
+Abilities: 
+Flying, First Strike, Double Strike, Trample
+When a creature dealt damage by Beru dies, put X +1/+1 counters on this creature equal to half the destroyed creatures power rounded up.{flavor}"We were chosen by the King, and you were not."
+-------------------------------------------
+Non-shadow Creature
+Cost: 			{2}{R}
+Creature Name:  Igris, Blood-Red Commander
+Creature Type:  {fontsize-5}Legendary Creature - Human Knight
+Power/Toughness: 4/4
+Abilities: 
+Haste, First Strike
+{i}Rulers Authority{/i} - Igris can block as though it had reach.
+{i}Master Swordsman{/i} - Igris get +1/+1 for each equipment attached to it. {flavor}“Even if this mission wasn’t the final order bestowed unto me, I never planned to go easy during this fight. If I believed that he wasn’t qualified, I’d kill him with my own hands.”
+---------------------------------------------
+shadow Creature
+Cost: 			{2}{B}{R}
+Creature Name:  Shadow Marshal Igris
+Creature Type:  {fontsize-10}Legendary Creature - Shadow Warrior
+Power/Toughness: 6/6
+Abilities: 
+Flying
+{i}Shadow Camouflage{/i} - {3}{R}: Igris cannot be blocked until the end of turn, it deals damage equal to half its power rounded down.
+4{B}{R}: Other shadows you control get +X/+X until end of turn, where X is Shadow Marshal Igris's power.
+---------------------------------------------
+Cost: 			{3}{G}{U}{R}
+Creature Name:  Kargalgan, High Orc Shaman
+Creature Type:  Legendary creature - Orc Shaman
+Power/Toughness: 7/7
+Abilities: 
+{i}Hymn Of Fire Dragon{/i} - {1}{R}: Deal 2 damage to target creature.
+{i}Hymn Of Fire Giants{/i} - {2}{G}: Put a +1/+1 counter on target creature.
+{i}Hymn Of Protection{/i} - {2}{G}{U}: Creatures you control get a shield counter.
+{i}Hymn Of Lethargy{/i} - {X}{U}: Tap X target creatures an opponent controls.{flavor}Are you the king of humans?"
+-----------------------------------------------
+Cost: {2}{B}{R}
+Creature Name: Tusk,  Shadow Orc Shaman
+Creature Type: {fontsize-11}Legendary Creature - Shadow Shaman
+Power/Toughness: 5/5
+Abilities: 
+{i}Hymn Of Frenzy{/i} - {1}{R}: Target creature is goaded.
+{i}Gravitation Magic{/i} - {2}{U}: Creatures you control gain flying until the end of turn.
+{i}Hymn Of Strengthening{/i} - {3}{B}: Create X 2/3 red Shadow Orc creature tokens with trample, where X is equal to the number of creatures in all players graveyards.{lns}
+
+-----------------------------------------------
+Cost: 			{1}{U}{B}
+Creature Name: {fontsize-32}Kaisel, Shadow Wyvern Of White Flames
+Creature Type: {fontsize-10}Legendary Creature - Shadow Wyvern
+Power/Toughness: 4/4
+Abilities: 
+Flying
+{i}Breath of White Flames{/i} - {4}{B}: Kaisel, Shadow Wyvern Of White Flames deals 5 damage to target creature an opponent controls.
+--------------------------------------------------
+Cost: 			{1}{U}{B}
+Creature Name:  {fontsize-5}Tank, Shadow Ice Bear Alpha 
+Creature Type:  {fontsize-10}Legendary Creature - Shadow Ice Bear
+Power/Toughness: 3/4
+Abilities:	Trample
+{i}Shadows Roar{/i} - {2}: Create a black 2/2 Shadow Ice Bear creature token.
+
+-----------------------------------------
+Cost: 			{1}{U}{U}
+Creature Name:  Jima, Shadow Naga
+Creature Type:  Creature - Shadow Snake Giant
+Power/Toughness: 3/3
+Abilities: {fontsize-10}Reach
+{i}Dual Trident Mastery{/i} - {2}{B}: Jima, Shadow Naga gains Double Strike until the end of turn.
+Durability: When Jima enters the battlefield, put a shield counter on it.
+
+-----------------------------------------
+Cost: 			 {3}{B}{B}
+Creature Name: 	 Greed, Bloodthirsty General
+Creature Type: 	 {fontsize-23}Legendary Creature - Shadow Human Warrior
+Power/Toughness: 3/3
+Abilities: Trample, Deathtouch
+Devour 1 {i}(As this comes into play, you may sacrifice any number of creatures. This creature comes into play with that many +1/+1 counters on it.){/i}
+
+-----------------------------------------
+Cost: 			{3}{W}{U}{B}
+Creature Name:  Iron, The Loose Cannon
+Creature Type:  {fontsize-25}Legendary Creature - Shadow Human Warrior
+Power/Toughness: 6/8
+Abilities: {i}Shout of Provocation{/i} - {2}{U}: Iron, The Loose Cannon fights up to one target creature you don’t control.
+Whenever Iron deals damage to a creature, excess damage this turn its controller instead.
+
+-------------------------------------
+Cost: 			 {5}{B}{B}{B}
+Creature Name: 	 {fontsize-17}Ashborn, Monarch Of Shadows
+Creature Type: 	 {fontsize-20}Legendary Creature - Shadow Avatar Noble
+Power/Toughness: 9/9
+Abilities: {fontsize-15}Deathtouch, Double Strike, Trample
+Shadowless. {i}(Ashborn cannot change controllers.){/i}
+{i}Shadow Extraction{/i} - If a creature would die, create a 1/1 black shadow warrior creature token.{flavor}"I am the record of your bitter struggle. I am the evidence of your resistance. I am the reward of your pain. I am death, I am eternal rest, and I am also terror. I am you"
+
+-------------------------------------------------------------------
+Cost: 		     {5}{R}{R}{R}
+Creature Name:   {fontsize-22}Antares, Monarch Of Destruction 
+Creature Type:   {fontsize-18}Legendary Creature - Dragon Avatar Noble
+Power/Toughness: 9/9
+Abilities: Flying, Trample, First Strike
+Shadowless. {i}(Antares cannot change controllers.){/i}
+At the beginning of your upkeep, Amass Dragons X, where X is equal to the number of creatures you control. {i}(Put X+1/+1 counters on a Dragon Army you control. If you don’t control a Dragon Army, create a 0/0 red Dragon Army creature token first.){/i}
+{i}Dragon’s Fear{/i} - {3}{R}{R}: Dragons you control gain fear until the end of turn.{flavor}“Destroy everything! For that is the sole mission of our {lns}existence!”
+
+--------------------------------------------------
+
+Cost: 			{4}{W}{B}{G}
+Creature Name:  {fontsize-5}Liu ZhiGang, 7-Star Hunter
+Creature Type:  {fontsize-10}Legendary Creature - Human Warrior
+Power/Toughness: 7/8
+Abilities: {fontsize-20}Haste, First Strike
+Flash
+{i}Spiritual Body Manifestation{/i} - If Liu Zhigang would be destroyed, deal damage to each opponent equal to its power.
+Bloodthirst 4 {i}(If an opponent was dealt damage this turn, this creature enters the battlefield with four +1/+1 counters on it.){/i}
+
+-------------------------------------------------------
+Cost: 			{1}{U}{R}
+Creature Name:  {fontsize-15}Legia, Monarch of the Beginning
+Creature Type:  {fontsize-15}Legendary Creature - Giant Avatar Noble
+Power/Toughness: 0/8
+Abilities: Reach, Defender
+Shadowless {i}(Legia cannot change controllers){/i}
+Other giants you control get +2/+3.
+{i}Pledge Of Truth{/i} - {3}{U}: Target creature is goaded until the end of turn.
+{i}Kin of Giants{/i} - {4}{R}: Amass Giants X, where X is equal to the number of dungeons you control. {i}(Put X+1/+1 counters on a Giant Army you control. If you don't control a Giant Army, create a 0/0 red Giant Army creature token first.){/i}
+
+-------------------------------------------------------
+Cost: 			{1}{B}{G}
+Creature Name:  {fontsize-13}Querehsha, Monarch of Plagues
+Creature Type:  {fontsize-16}Legendary Creature - Insect Avatar Noble
+Power/Toughness: 4/4
+Abilities: Deathtouch, Flying
+Shadowless {i}(Querehsha cannot change controllers.){/i}
+{i}Entomancy{/i} - When a creature an opponent controls is destroyed, if it was dealt damage by Querehsha, Amass Insects X, where X is equal to that creatures mana value. {i}(Put X+1/+1 counters on an Insect Army you control. If you don't control an Insect Army, create a 0/0 green Insect Army creature token first.){/i}
+{i}Necromancy{/i} - If a creature dealt damage by an insect you control would die, create a token copy of it. {lns}It is a zombie in addition to its other types.
+
+-------------------------------------------------------
+Cost: 			{W}{U}
+Creature Name:	{fontsize-10}Baran, Monarch of White Flames
+Creature Type:  {fontsize-17}Legendary Creature - Demon Avatar Noble
+Power/Toughness: 3/3
+Abilities: Haste, Flying
+Shadowless {i}(Baran cannot change controllers.){/i}
+{i}Lightning Breath{/i} - {4}: Destroy target nonland permanent with mana value four or less.
+{i}Hell’s Army{/i} - Whenever you destroy a nonland permanent, amass Demons 1 {i}(Put X+1/+1 counters on a Demon Army you control. If you don’t control a Demon Army, create a 0/0 blue Demon Army creature token first.){/i}
+
+---------------------------------------------------------
+Cost: 			{2}{B}{R}
+Creature Name:  {fontsize-5}Rakan, Monarch of the Fangs
+Creature Type:  {fontsize-15}Legendary Creature - Beast Avatar Noble
+Power/Toughness: 3/5
+Abilities: {fontsize-30}Haste, First Strike, Trample
+Shadowless {i}(Rakan cannot change controllers.){/i}
+{1}{R}: Beasts you control get +1/+0 until the end of turn.
+When Rakan deals damage to an opponent, amass Beasts X, where X is equal to the damage dealt by Rakan. {i}(Put X+1/+1 counters on a Beast Army you control. If you don't control a Beast Army, create a 0/0 white beast Army creature token first.){/i}
+
+---------------------------------------------------------
+Cost: 			{3}{R}{G}
+Creature Name:  {fontsize-18}Tarnak, Monarch of the Iron Body
+Creature Type:  {fontsize-22}Legendary Creature - Nephilim Avatar Noble
+Power/Toughness: 5/5
+Abilities: Trample
+Shadowless {i}(Tarnak cannot change controllers.){/i}
+{1}{G}: Put s +1/+1 counter on target creature you control untiol end of turn.
+{i}Iron Body Reinforcement{/i} - {4}{R}{G}: Tarnak get +1/+1 for each counter you put on creatures you control this turn.
+During your postcombat main phase Amass Monsters X, where X is equal to the number of +1/+1 counters put on Tarnak this turn. {i}((Put X+1/+1 counters on a Monster Army you control. If you don’t control an Monster Army, {lns}create a 0/0 red Monster Army creature token first.){/i}
+
+---------------------------------------------------------
+Cost: 			{5}{B}{B}
+Creature Name:  {fontsize-30}Yogumunt, Monarch Of Transfiguration
+Creature Type:  {fontsize-18}Legendary Creature - Spectre Avatar Noble
+Power/Toughness: 4/4
+Abilities: Flying
+Shadowless {i}(Yogumunt cannot change controllers.){/i}
+{i}Dimensional Manipulation{/i} - 6{B}: Shuffle target permanent you control into your library, then reveal the top card of your library. If it’s a permanent card with a mana cost less then Yogumunt put it onto the battlefield.
+At the beginning of your end step, amass Demonic Spectres X, where X is equal to the mana value of cards played without paying their mana cost. {i}(Put X+1/+1 counters on a Demonic Spectre Army you control. If you don’t control a Demonic Spectre Army, create a 0/0 black Demonic Spectre Army creature {lns}token first.){/i}
+
+---------------------------------------------------------
+Cost: 			{B}{G}{U}
+Creature Name:  Blue Venom-fanged Kasaka
+Creature Type:  Creature - Giant Snake
+Power/Toughness: 3/3
+Abilities: Trample, Deathtouch, Toxic 2
+At the beginning of your end step, draw a card for each opponent who has two or more poison counters.
+
+---------------------------------------------------------
+Cost: 			{5}
+Creature Name:  Kandiaru, The Architect
+Creature Type:  {fontsize-22}Legendary Artifact Creature - Artificer Noble
+Power/Toughness: 5/6
+Abilities: First strike, vigilance, Menace, Trample, Reach
+When Kandiaru enters the battlefield, each land you control  is a Dungeon in addition to its other land types for the rest of the game.
+Whenever a player taps a dungeon for mana, that player adds one mana of any type that land produced.{flavor}“I am the Architect of the System. Are you satisfied with my answer?”
+
+---------------------------------------------------------
+Cost: 			{3}{W}{U}{R}{G}
+Creature Name:  {fontsize-13}Thomas Andre, The Goliath
+Creature Type:  {fontsize-10}Legendary Creature - Human Warrior
+Power/Toughness: 8/8
+Abilities: Ward {3}
+Trample, first Strike, Vigilance
+{i}Capture{/i} - {3}{W}{U}{T}: Exile target creature until Thomas Andre leaves the battlefield. {i}That creature returns under its owner’s control.){/i}
+
+---------------------------------------------------------
+Cost: 			{2}{W}{R}
+Creature Name:  Cha Hae-In, The Dancer
+Creature Type:  {fontsize-10}Legendary Creature - Human Warrior
+Power/Toughness: 2/4
+Abilities: {fontsize-31}Haste, First Strike
+{i}Sword Dance{/i} - Whenever you attack, for each opponent, create a 1/1 white Human creature token that’s tapped and attacking that player or a planeswalker they control.
+{i}Sword Of Light{/i} - {1}{R}: Cha Hae-In gets +1/+0 until end of turn. {flavor}“I have no regrets. Even if this will be my final moment in life, I will make this choice many times over”
+
+---------------------------------------------------------
+Cost: 			{3}{b}{r}
+Creature Name:  {fontsize-45}Shadow Of Kamish, Humanity’s Greatest Calamity
+Creature Type:  {fontsize-9}Legendary Creature - Shadow Dragon
+Power/Toughness: 6/7
+Abilities: Flying, Trample
+{i}Kamish’s Breath{/i} - {4}{B}: Destroy up to two target creatures with power 6 or less.
+
+---------------------------------------------------------
+Cost: 			
+Creature Name:  
+Creature Type:  
+Power/Toughness: 
+Abilities: 
+
+---------------------------------------------------------
